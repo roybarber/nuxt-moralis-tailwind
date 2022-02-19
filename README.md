@@ -2,10 +2,12 @@
 
 A simple Web3 app allowing a user to authenticate with their wallet, show their ETH balance and see if they are an owner of an NFT on your project by contract address. 
 
+[View the demo](https://jovial-roentgen-7c8baa.netlify.app).
+
 ## Build Setup
 
-Duplicate the .env.example and add your MORALIS_SERVER_URL & MORALIS_APP_ID from the moralis dashboard.
-Add your contract address to the .env
+Duplicate the ```.env.example``` and add your ```MORALIS_SERVER_URL``` & ```MORALIS_APP_ID``` from the moralis dashboard.
+Add your contract address to the ```.env```
 
 ```bash
 # install dependencies

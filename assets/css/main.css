@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+div#__nuxt {
+	@apply min-h-full flex;
+}
+#__layout, .auth #__layout>div {
+	@apply w-full;
+}
+.auth #__layout, .auth #__layout>div {
+	@apply flex;
+}
+
+@tailwind utilities;
